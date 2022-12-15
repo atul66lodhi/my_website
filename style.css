@@ -32,6 +32,9 @@ hr{
     width: 4%;
     margin:1.5rem auto;
 }
+.run{
+    margin-top:0.5rem;
+}
 .intro{
     width:40%;
     margin: 0 auto 2rem auto;
